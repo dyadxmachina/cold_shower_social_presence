@@ -1,3 +1,4 @@
+*.DS*
 *.zip
 *Store
-
+.DS_Store
